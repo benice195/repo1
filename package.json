@@ -1,0 +1,28 @@
+{
+  "name": "kodilla-projecteffect",
+  "version": "1.0.0",
+  "description": "kodilla-project",
+  "main": "script.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benice195/repo1.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Wojciech Szczyrba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benice195/repo1/issues"
+  },
+  "homepage": "https://github.com/benice195/repo1#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
